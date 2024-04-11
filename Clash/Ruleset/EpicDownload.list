@@ -1,0 +1,6 @@
+# 内容：EpicDownload
+# 数量：4条
+DOMAIN-SUFFIX,download.epicgames.com
+URL-REGEX,epicgames-download(\d+|).akamaized.net
+URL-REGEX,download(\d+|).epicgames.com
+DOMAIN-SUFFIX,fastly-download.epicgames.com
